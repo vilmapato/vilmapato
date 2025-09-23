@@ -4,7 +4,7 @@ I'm a passionate fullstack developer with a love for automation of processes and
 
 ### 🚀 My Skills:
 - JavaScript | React | Node.js
-- Python | Django | Typescript | JS
+- Python | Django | Typescript | SQL
 - HTML | CSS | SASS | Tailwind
 - Docker
 
