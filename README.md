@@ -2,7 +2,7 @@
 
 # Hello, I'm Vilma 👋
 
-![Metrics](./github-metrics.svg)
+![Metrics](./workflows/metrics.svg)
 
 I work at the intersection of operations, compliance, and technology — passionate about building better systems, automating workflows, and exploring how blockchain can reshape financial infrastructure.
 
