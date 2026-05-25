@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=vilmapato&show_icons=true&theme=tokyonight&hide=issues,contribs)
 ![](https://github-readme-streak-stats.herokuapp.com?user=vilmapato&theme=tokyonight)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vilmapato&layout=compact&theme=tokyonight&hide_border=true)
+![](https://languagestats.com/api?username=vilmapato&theme=dark)
 
 
 Ops & compliance professional turned builder. 
