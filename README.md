@@ -2,8 +2,6 @@
 
 # Hello, I'm Vilma 👋
 
-![Metrics](./github-metrics.svg)
-
 Ops & compliance professional turned builder. 
 I did a fullstack bootcamp before AI took over, and I've been combining both worlds since — 
 automating workflows, shipping hackathon projects, and exploring Web3 infrastructure.
