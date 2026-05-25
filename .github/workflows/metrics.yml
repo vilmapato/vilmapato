@@ -1,5 +1,4 @@
 name: Metrics
-
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -8,12 +7,13 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics.svg
           user: vilmapato
           token: ${{ secrets.METRICS_TOKEN }}
-
           template: classic
           base: header, activity, community, repositories
