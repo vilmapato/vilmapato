@@ -41,3 +41,5 @@ Not a traditional dev. Building anyway.
 ### 💼 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/vilmaahumada)
 - [GitHub](https://github.com/YOUR-USERNAME)
+
+![](https://ghchart.rshah.org/00F72D/vilmapato)
