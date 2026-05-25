@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+</div>
 
 Ops & compliance professional turned builder. 
 I did a fullstack bootcamp before AI took over, and I've been combining both worlds since — 
