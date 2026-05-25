@@ -4,9 +4,11 @@
 
 ![Metrics](./github-metrics.svg)
 
-I work at the intersection of operations, compliance, and technology — passionate about building better systems, automating workflows, and exploring how blockchain can reshape financial infrastructure.
+Ops & compliance professional turned builder. 
+I did a fullstack bootcamp before AI took over, and I've been combining both worlds since — 
+automating workflows, shipping hackathon projects, and exploring Web3 infrastructure.
 
-Curious by nature, I enjoy understanding both the business and technical side of products: from onboarding operations and process optimization to smart contracts, automation, and Web3 development.
+Not a traditional dev. Building anyway.
 
 ### 🚀 Areas I work with:
 - Operations & Process Automation
