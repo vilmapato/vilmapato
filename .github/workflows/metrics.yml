@@ -1,19 +1,11 @@
-name: Metrics
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics.svg
-          user: vilmapato
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
-          base: header, activity, community, repositories
+- uses: lowlighter/metrics@latest
+  with:
+    filename: github-metrics.svg
+    user: vilmapato
+    token: ${{ secrets.METRICS_TOKEN }}
+    template: classic
+    base: header, repositories
+    plugin_languages: yes
+    plugin_languages_limit: 6
+    plugin_calendar: yes
+    plugin_calendar_limit: 1
