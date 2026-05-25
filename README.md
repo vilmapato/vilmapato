@@ -44,5 +44,3 @@ Not a traditional dev. Building anyway.
 ### 💼 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/vilmaahumada)
 - [GitHub](https://github.com/YOUR-USERNAME)
-
-
