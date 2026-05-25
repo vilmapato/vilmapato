@@ -44,3 +44,5 @@ Not a traditional dev. Building anyway.
 ### 💼 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/vilmaahumada)
 - [GitHub](https://github.com/YOUR-USERNAME)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=vilmapato&theme=tokyo-night&hide_border=true&area=true&days=365)
