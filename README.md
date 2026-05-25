@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Ops+%2B+Tech+%2B+Automation;Blockchain+Curious;Building+Systems+and+Workflows;Exploring+AI+and+Web3)](https://git.io/typing-svg)
 
 # Hello, I'm Vilma 👋
