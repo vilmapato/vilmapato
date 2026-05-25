@@ -42,4 +42,4 @@ Not a traditional dev. Building anyway.
 - [LinkedIn](https://www.linkedin.com/in/vilmaahumada)
 - [GitHub](https://github.com/YOUR-USERNAME)
 
-![](https://ghchart.rshah.org/00F72D/vilmapato)
+![](https://github-readme-activity-graph.vercel.app/graph?username=vilmapato&theme=tokyo-night&hide_border=true)
