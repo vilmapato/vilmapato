@@ -2,7 +2,8 @@
 
 # Hello, I'm Vilma 👋
 
-![Metrics](./github-metrics.svg)
+![](https://github-readme-stats.vercel.app/api?username=vilmapato&show_icons=true&theme=tokyonight&hide=issues,contribs)
+![](https://github-readme-streak-stats.herokuapp.com?user=vilmapato&theme=tokyonight)
 
 Ops & compliance professional turned builder. 
 I did a fullstack bootcamp before AI took over, and I've been combining both worlds since — 
